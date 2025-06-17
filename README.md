@@ -1,11 +1,16 @@
 # Event Planner Website
 
+A full-stack web application for managing events, RSVPs, and event locations.
+
 ## Overview
-This project is an Event Planner website that allows users to create and manage events. It features a user-friendly interface for viewing and adding events.
+This project is an Event Planner website that allows users to create and manage events. It features a user-friendly interface for viewing and adding events, managing RSVPs, and organizing events by location.
 
 ## Features
-- View a list of upcoming events
-- Create new events using a simple form
+- View and manage events
+- RSVP to events
+- Location-based event browsing
+- User authentication
+- Event categories
 - Responsive design for various devices
 
 ## Technologies Used
@@ -61,3 +66,7 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 ## License
 This project is licensed under the MIT License.
+=======
+# eventmanager
+Event Manager is a full-stack web application that streamlines event creation, management, and participation. It supports role-based access (admin, organizer, attendee), real-time updates, and a responsive interface for seamless user experience.
+>>>>>>> 0b37aede48f91f88880c5598ed84c620396ecb38
